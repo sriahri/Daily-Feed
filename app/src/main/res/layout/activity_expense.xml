@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:background="@color/blue_shade"
+    tools:context=".ExpenseActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fitsSystemWindows="true">
+
+        <com.google.android.material.appbar.MaterialToolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            app:titleTextColor="@color/white"
+            android:textAlignment="center"
+            android:background="@color/blue_shade" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <androidx.cardview.widget.CardView
+        android:layout_marginTop="65dp"
+        android:layout_width="match_parent"
+        android:id="@+id/cardView_expenses"
+        android:layout_height="300dp">
+
+    <com.github.mikephil.charting.charts.PieChart
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/pieChart_graph"/>
+    </androidx.cardview.widget.CardView>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:id="@+id/recyclerViewExpenses"
+            />
+    </LinearLayout>
+<LinearLayout
+    android:weightSum="2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:gravity="center"
+        android:id="@+id/textView_income"
+        android:background="@color/cyan"
+        android:text="@string/add_income"
+        android:layout_weight="1"
+        android:layout_marginEnd="10dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:id="@+id/textView_expense"
+        android:background="@color/cyan"
+        android:text="@string/add_expense"
+        android:gravity="center"
+        android:layout_marginStart="10dp"
+        android:layout_weight="1"
+        />
+</LinearLayout>
+</RelativeLayout>

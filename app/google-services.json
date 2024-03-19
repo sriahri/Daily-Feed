@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "525205285914",
+    "project_id": "loginregister-4602b",
+    "storage_bucket": "loginregister-4602b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525205285914:android:0ddfb1e84b83dab8f675a3",
+        "android_client_info": {
+          "package_name": "edu.ucdenver.inukurthi.srihari.dailyfeeddemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525205285914-4aftlh8ugat1o9034tl6nd84jrbrg159.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnCu0mvN92xmoWD-svb_kd9iqvDVMG14o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525205285914-4aftlh8ugat1o9034tl6nd84jrbrg159.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525205285914:android:4bf1c1881a2db2a3f675a3",
+        "android_client_info": {
+          "package_name": "edu.ucdenver.inukurthi.srihari.loginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525205285914-4aftlh8ugat1o9034tl6nd84jrbrg159.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnCu0mvN92xmoWD-svb_kd9iqvDVMG14o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525205285914-4aftlh8ugat1o9034tl6nd84jrbrg159.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

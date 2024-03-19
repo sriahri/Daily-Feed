@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.ucdenver.inukurthi.srihari.dailyfeeddemo.MainActivity">
+
+<!--    <item android:id="@+id/menu_Workout"-->
+<!--        app:showAsAction="never"-->
+<!--        android:title="@string/workouts"/>-->
+
+
+<!--    <item android:id="@+id/menu_reminders"-->
+<!--        app:showAsAction="never"-->
+<!--        android:title="@string/reminders_tasks"/>-->
+
+    <item android:id="@+id/menu_expenses"
+        app:showAsAction="never"
+        android:title="@string/expenses"/>
+
+    <item android:id="@+id/menu_news"
+        app:showAsAction="never"
+        android:title="@string/news"/>
+
+    <item android:id="@+id/menu_weather"
+        app:showAsAction="never"
+        android:title="@string/weather"/>
+
+    <item android:id="@+id/menu_logout"
+        app:showAsAction="never"
+        android:title="@string/logout"
+        />
+</menu>

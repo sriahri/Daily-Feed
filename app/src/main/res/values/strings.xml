@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Daily Feed</string>
+    <string name="api_key">dc43939a89904937b6aec1a31682d2d3</string>
+    <string name="business">Business</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="general">General</string>
+    <string name="health">Health</string>
+    <string name="science">Science</string>
+    <string name="sports">Sports</string>
+    <string name="technology">Technology</string>
+    <string name="city_name">City Name</string>
+    <string name="enter_city">Enter City</string>
+    <string name="a_background_color">A background color</string>
+    <string name="_13">13</string>
+    <string name="condition">Condition</string>
+    <string name="today_weather_update">Today weather update</string>
+    <string name="transparent_color">Transparent color</string>
+    <string name="icon">Icon</string>
+    <string name="time">Time</string>
+    <string name="weather">Weather</string>
+    <string name="login">Login</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="register">Register</string>
+    <string name="enter_user_name">Enter User name</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="already_a_user_login_here">Already a User. Login here</string>
+    <string name="not_a_user_register_here_now">Not a User. Register here now.</string>
+    <string name="date">Date</string>
+    <string name="start_time">Start time</string>
+    <string name="end_time">End time</string>
+    <string name="description_comments">Description/Comments</string>
+    <string name="workout_name">Workout Name</string>
+    <string name="add_workout">Add Workout</string>
+    <string name="workout_date">WorkOut Date</string>
+    <string name="description">Description</string>
+    <string name="logout">Logout</string>
+    <string name="workouts">Workouts</string>
+    <string name="expenses">Expenses</string>
+    <string name="news">News</string>
+    <string name="reminders_tasks">Reminders/Tasks</string>
+    <string name="about">About</string>
+    <string name="add_income">Add income</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="pie_chart">Pie Chart</string>
+    <string name="amount">Amount</string>
+    <string name="note_description">Note/Description</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="add">Add</string>
+    <string name="category">Category</string>
+    <string name="curreny_sign">$</string>
+    <string name="_100">100</string>
+
+    <string-array name="repeat_after">
+        <item>Never</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+    </string-array>
+</resources>
