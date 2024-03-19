@@ -154,3 +154,21 @@ fields and saved to or updated in the Firebase Firestore database accordingly. T
 delete an existing expense if needed.
 
 ![Add Expense Activity](https://github.com/sriahri/Daily-Feed/blob/main/app/Screenshots/Add_expense.png)
+
+## References:
+[Volley](https://github.com/google/volley)
+
+[Square](https://square.github.io/retrofit/)
+
+[Picasso](https://github.com/square/picasso)
+
+[Firebase](https://firebase.google.com/docs/auth/android/password-auth#java_3)
+
+[News API](https://newsapi.org/)
+
+[Retrofit](https://github.com/square/retrofit/blob/master/retrofit-converters/gson/README.md)
+
+[Android developer studio](https://developer.android.com/studio/run/device)
+
+[Weather API](https://weatherapi.com/)
+[MP Android Chart](https://github.com/PhilJay/MPAndroidChart)
