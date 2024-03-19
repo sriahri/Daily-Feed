@@ -1,4 +1,4 @@
-### Daily-Feed
+# Daily-Feed
 ## Description:  
 A Daily Feed app is a mobile application that delivers news content to users in a convenient 
 and personalized way. The Daily Feed app is a comprehensive and user-friendly mobile application 
